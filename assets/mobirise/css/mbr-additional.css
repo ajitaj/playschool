@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -735,10 +736,21 @@ h6,
   color: #475577;
 }
 #extFeatures5-b .mbr-iconfont-features4 {
-  color: #41a85f !important;
+  color: #3d8eb9 !important;
 }
 #extFeatures5-b .wraper {
-  border-color: #41a85f !important;
+  border-color: #3d8eb9 !important;
+}
+#extFeatures5-b .card-subtitle {
+  color: #ffffff;
+  font-size: 8px;
+}
+#extFeatures5-b P {
+  font-family: 'Lora', serif;
+  font-size: 14px;
+}
+#extFeatures5-b H4 {
+  color: #475577;
 }
 #extFeatures8-4 .feature-title,
 #extFeatures8-4 .description {
