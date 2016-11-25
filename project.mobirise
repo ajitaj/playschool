@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "file:///E:/website/gsvk",
@@ -296,18 +296,21 @@
           "articleLayout": false
         },
         {
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extFeatures4",
-          "_anchor": "extFeatures4-a",
+          "_name": "extFeatures5",
+          "_anchor": "extFeatures5-b",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 1,
+            "iconsBgColor": "#41a85f",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -318,21 +321,22 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#222",
             "columns": "2",
-            "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "showImages": true
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#7ac673"
             }
           },
           "title1": "Bootstrap 4",
@@ -341,13 +345,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
+              "linkInNewWindow": false,
+              "name": "eye",
+              "family": "linecons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#7ac673"
             }
           },
           "title2": "Responsive",
@@ -368,7 +373,6 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -381,15 +385,14 @@
             }
           },
           "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom",
+          "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             ".mbr-iconfont-features4": {
-              "color": "undefined !important"
+              "color": "#41a85f !important"
             },
             ".wraper": {
-              "border-color": "undefined !important"
+              "border-color": "#41a85f !important"
             }
           }
         },
