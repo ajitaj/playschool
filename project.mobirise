@@ -303,6 +303,26 @@
             "Extension"
           ],
           "_name": "extFeatures5",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#3d8eb9 !important"
+            },
+            ".wraper": {
+              "border-color": "#3d8eb9 !important"
+            },
+            ".card-subtitle": {
+              "color": "#ffffff",
+              "font-size": "8px"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "14px"
+            },
+            "H4": {
+              "color": "#475577"
+            }
+          },
           "_anchor": "extFeatures5-b",
           "_params": {
             "iconsBgColor": "#3d8eb9",
@@ -387,27 +407,7 @@
           },
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#3d8eb9 !important"
-            },
-            ".wraper": {
-              "border-color": "#3d8eb9 !important"
-            },
-            ".card-subtitle": {
-              "color": "#ffffff",
-              "font-size": "8px"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "14px"
-            },
-            "H4": {
-              "color": "#475577"
-            }
-          }
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
         },
         {
           "_styles": {
