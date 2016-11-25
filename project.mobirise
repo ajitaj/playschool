@@ -50,13 +50,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#475577"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#475577"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -68,16 +68,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#343e57"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#414e6d!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#475577"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#475577",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -91,6 +91,9 @@
             },
             ".innerEmail:hover, .innerPhone:hover": {
               "color": "@primaryColor"
+            },
+            "SPAN": {
+              "color": "#475577"
             }
           },
           "alias": "mobirise3-blocks/components",
@@ -100,73 +103,79 @@
           "_name": "extMenu1",
           "_anchor": "extMenu1-1",
           "_params": {
-            "bgColor": "#475577",
+            "bgColor": "#ffffff",
             "socialButtons": "3",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#475577",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "fa",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
               "name": "phone",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
+              "color": "#2969b0"
             }
           },
           "phone": "+1234567890",
           "media2": {
             "iconFont": {
-              "active": true,
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "mail",
+              "family": "linecons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
+              "color": "#2969b0"
             }
           },
           "email": "info@yourmail.com",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "facebook",
+              "family": "socicon",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
+              "color": "#2969b0"
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "twitter",
+              "family": "socicon",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
+              "color": "#2969b0"
             }
           },
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "instagram",
+              "family": "socicon",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
+              "color": "#2969b0"
             }
           },
           "media6": {
@@ -205,15 +214,21 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-logo-sand.png",
+              "src": "@PROJECT_PATH@/assets/images/visiting-cards2-371x128-48.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#2c82c9"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
@@ -418,7 +433,7 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -482,11 +497,51 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "c",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "1",
             "showText": true,
-            "filter": false,
+            "filter": true,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,

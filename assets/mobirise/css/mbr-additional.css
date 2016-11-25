@@ -673,15 +673,15 @@ h6,
   color: #ffffff;
 }
 #extMenu1-1 .navbar-toggler {
-  color: #ffffff;
+  color: #475577;
 }
 #extMenu1-1 .close-icon::before,
 #extMenu1-1 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #475577;
 }
 #extMenu1-1 .link,
 #extMenu1-1 .dropdown-item {
-  color: #ffffff;
+  color: #475577;
 }
 #extMenu1-1 .link {
   font-size: 0.75rem;
@@ -698,22 +698,22 @@ h6,
 }
 #extMenu1-1 .link[aria-expanded="true"],
 #extMenu1-1 .dropdown-menu {
-  background: #343e57;
+  background: #e6e6e6;
 }
 #extMenu1-1 .nav-dropdown-sm .link:focus,
 #extMenu1-1 .nav-dropdown-sm .link:hover,
 #extMenu1-1 .nav-dropdown-sm .dropdown-item:focus,
 #extMenu1-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #414e6d!important;
+  background: #f7f7f7!important;
 }
 #extMenu1-1 .navbar,
 #extMenu1-1 .nav-dropdown-sm,
 #extMenu1-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #extMenu1-1 .nav-dropdown-sm .dropdown-menu {
-  background: #475577;
+  background: #ffffff;
 }
 #extMenu1-1 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #475577;
   transition: none;
 }
 #extMenu1-1 .bg-color.transparent.opened .link {
@@ -730,6 +730,9 @@ h6,
 #extMenu1-1 .innerEmail:hover,
 #extMenu1-1 .innerPhone:hover {
   color: #c0a375;
+}
+#extMenu1-1 SPAN {
+  color: #475577;
 }
 #extFeatures8-4 .feature-title,
 #extFeatures8-4 .description {
