@@ -261,7 +261,7 @@
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kiddie-junction-1-2000x898-77.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -275,7 +275,7 @@
               },
               {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "image": "@PROJECT_PATH@/assets/images/playschool-2000x1012-47.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -307,7 +307,7 @@
           "_params": {
             "iconsBgColor": "#3d8eb9",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
@@ -341,7 +341,7 @@
           },
           "title1": "MISSION STATEMENT",
           "subtitle1": "B",
-          "caption1": "To improve human capital by providing children with safe, secure &amp; hygienic environment with state of the art facilities which impact &amp; inspire life long learning.",
+          "caption1": "<i><b>To improve</b> human capital by providing children with safe, secure &amp; hygienic environment with state of the art facilities which impact &amp; inspire life long learning.</i>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -358,7 +358,7 @@
           },
           "title2": "VISION STATEMENT",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "<span style=\"background-color: transparent; line-height: 1.5;\">&nbsp; &nbsp;Institution Where children can create explore, imagine &amp; learn.</span><br><span style=\"background-color: transparent; line-height: 1.5;\">&nbsp; &nbsp;We offer a broad range of educational opportunities &amp; provide experiences that enrich each &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;childs social, emotional physical, intellectual, conginative &amp; creative abilities.</span><br><span style=\"background-color: transparent; line-height: 1.5;\">&nbsp; &nbsp; We advocate a sense of belonging &amp; strive to develop self esteem through fun, love, respect, team work &amp; equality.</span><br><span style=\"background-color: transparent; line-height: 1.5;\">&nbsp; &nbsp; We celebrate our success with great pride</span><br>",
+          "caption2": "<i><span style=\"background-color: transparent; line-height: 1.5;\"><b>Institution</b> Where children can create explore, imagine &amp; learn.</span><br><span style=\"background-color: transparent; line-height: 1.5;\"><b>We offer</b> a broad range of educational opportunities &amp; provide experiences that enrich each &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;childs social, emotional physical, intellectual, conginative &amp; creative abilities.</span><br><span style=\"background-color: transparent; line-height: 1.5;\"><b>We advocate</b> a sense of belonging &amp; strive to develop self esteem through fun, love, respect, team work &amp; equality.</span><br><span style=\"background-color: transparent; line-height: 1.5;\"><b>We celebrate</b> our success with great pride</span></i><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
