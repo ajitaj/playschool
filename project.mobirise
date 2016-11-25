@@ -25,7 +25,7 @@
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "file:///E:/website/gsvk",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/fav-128x157-82.jpg",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
